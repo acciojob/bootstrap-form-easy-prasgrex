@@ -14,3 +14,7 @@ h1{
 .input1>div,.input2>div{
 	margin-inline:5px;
 }
+
+.input4{
+	margin:10px;
+}
