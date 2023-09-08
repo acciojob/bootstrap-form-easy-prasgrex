@@ -1,2 +1,16 @@
+*{
+	padding:0px;
+	margin:0px;
+}
 
-/* Your CSS Code here. */
+h1{
+	text-align:center;
+}
+
+.input1,.input2{
+	display:flex;
+}
+
+.input1>div,.input2>div{
+	margin-inline:5px;
+}
